@@ -1,0 +1,16 @@
+.box {
+	min-width: 300px !important;
+}
+
+.search {
+	margin-top: 100px ;
+}
+
+.input {
+	min-width: 100px !important;
+	max-width: 1100px !important; 
+}
+
+.select {
+	width: 200px !important;
+}

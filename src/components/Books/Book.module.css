@@ -1,0 +1,9 @@
+.img {
+	width: 280px;
+}
+
+.content {
+	text-align: justify;
+	background-color: #ffffff;
+	min-width: 280px;
+}

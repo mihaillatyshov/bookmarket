@@ -1,0 +1,13 @@
+.card {
+	min-width: 300px;
+}
+
+.img {
+	width : 120px;
+}
+
+.count {
+	margin-top: 15px;
+	font-size: 24px;
+	background-color: #ffffff;
+}
